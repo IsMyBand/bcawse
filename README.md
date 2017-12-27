@@ -4,11 +4,7 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
  bcawse app
  ===========
  
--1.Description
--2.Installation
--3.Run
--4.Roadmap
--5.Contact
+
 +1.Description  
 +2.Installation  
 +3.Run  
