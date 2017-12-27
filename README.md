@@ -14,8 +14,7 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
 +3.Run  
 +4.Roadmap  
 +5.Contact  
-+
-+<img src="abstract.png" width="80%">
+
    
  1.Description
  -------------
@@ -28,13 +27,14 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
  
  3.Run
  ------
- All dependencies and methods for running the app will become available as soon as possible. 
+ All dependencies and methods for running the app will become available as soon as it will be implemented. 
  
  4.Roadmap
  ---------
  * Christmas 2017 Project Initiation: app definition, arquitechture and requirements, network economy description, 
  task listing, etc,…
- * Spring 2018 v0.0: First version: Prototype App, call for contributions, hackathon call, etc…
+ * Spring 2018 v0.0: First version: Prototype App, Packaging and distribution description, 
+ call for contributions, hackathon call, etc…
  * Summer 2018: Public Release, Call for ICO, bug hunting and discussion, etc…
  * Autumn 2018: ICO roadmap release, call for network founders, call for governance discussion, first network deployment, etc…
  * Winter 2018: ICO launch, project dissolve roadmap, etc…
