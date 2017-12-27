@@ -41,8 +41,8 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
  5.Contact  
  ---------
  * GitHub
- * @jaranda79
- * @aleph1888
+ * @jaranda79: Project Owner
+ * @aleph1888: DevOps Leader
  
  We'll be updating contact info as soon as the project starts growing. 
 
