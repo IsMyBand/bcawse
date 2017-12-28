@@ -1,5 +1,5 @@
 # bcawse
-bcawse=((nodered+sapereAude)/EVM)*dataEconomy
+bcawse=([nodered](https://github.com/IsMyBand/node-red)/EVM)*dataEconomy
 
  bcawse app
  ===========
@@ -14,11 +14,12 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
    
  1.Description
  -------------
- A distributed application for web scrapping and data processing over an Ethereum Virtual Machine with aiml integration.
+ A distributed application for web scrapping and data processing over an [Ethereum Virtual Machine](https://github.com/IsMyBand/py-evm) with [aiml/sparql integration](https://github.com/IsMyBand/sapereAudeBot).
  
  2.Installation
  --------------
- bcwase will be based on and integration of the nodered project, the sapereAude project and the Ethereum project. 
+ bcwase will be based on and integration of the [nodered](https://github.com/IsMyBand/node-red) project, the [sapereAude](https://github.com/IsMyBand/sapereAudeBot) transport platform and the [Ethereum project](https://github.com/IsMyBand/py-evm). 
+ 
  Installation and further information will become available as the project develops and matures. 
  
  3.Run
@@ -27,8 +28,8 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
  
  4.Roadmap
  ---------
- * Christmas 2017 Project Initiation: app definition, arquitechture and requirements, network economy description, 
- task listing, etc,…
+ * Christmas 2017 Project Initiation: [app definition](https://github.com/jaranda79/bcawse/wiki/App-Definition), [architecture](https://github.com/jaranda79/bcawse/wiki/Architecture) and [requirements](https://github.com/jaranda79/bcawse/wiki/Requirements), [network economy description](https://github.com/jaranda79/bcawse/wiki/Network-economy-description), 
+ [task listing](https://github.com/jaranda79/bcawse/milestone/1), etc,…
  * Spring 2018 v0.0: First version: Prototype App, Packaging and distribution description, 
  call for contributions, hackathon call, etc…
  * Summer 2018: Public Release, Call for ICO, bug hunting and discussion, etc…
@@ -42,7 +43,7 @@ bcawse=((nodered+sapereAude)/EVM)*dataEconomy
  ---------
  * GitHub
  * @jaranda79: Project Owner
- * @aleph1888: DevOps Leader
+ * @aleph1888: Magician and stonebreaker.
  
  We'll be updating contact info as soon as the project starts growing. 
 
