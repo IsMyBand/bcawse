@@ -5,8 +5,8 @@
 	path = node-red
 	url = https://github.com/IsMyBand/node-red
 [submodule "sapereAudeBot"]
-	path = sapereAudeBot
-	url = https://github.com/IsMyBand/sapereAudeBot
+	path = aude-bot-engine
+	url = https://github.com/IsMyBand/aude-bot-engine
 [submodule "py-evm"]
 	path = py-evm
 	url = https://github.com/IsMyBand/py-evm
