@@ -1,0 +1,12 @@
+[submodule "shadow-scraper"]
+	path = shadow-scraper
+	url = https://github.com/IsMyBand/shadow-scraper.git
+[submodule "node-red"]
+	path = node-red
+	url = https://github.com/IsMyBand/node-red
+[submodule "sapereAudeBot"]
+	path = sapereAudeBot
+	url = https://github.com/IsMyBand/sapereAudeBot
+[submodule "py-evm"]
+	path = py-evm
+	url = https://github.com/IsMyBand/py-evm
