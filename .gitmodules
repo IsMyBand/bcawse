@@ -4,9 +4,9 @@
 [submodule "node-red"]
 	path = node-red
 	url = https://github.com/IsMyBand/node-red
-[submodule "aude-bot-engine"]
-	path = aude-bot-engine
-	url = https://github.com/IsMyBand/aude-bot-engine
 [submodule "py-evm"]
 	path = py-evm
 	url = https://github.com/IsMyBand/py-evm
+[submodule "aude-bot-engine"]
+	path = aude-bot-engine
+	url = https://github.com/IsMyBand/aude-bot-engine
