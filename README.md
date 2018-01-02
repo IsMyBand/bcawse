@@ -1,5 +1,5 @@
 # bcawse
-bcawse=([nodered](https://github.com/IsMyBand/node-red)/EVM)*dataEconomy
+bcawse=([nodered](https://github.com/IsMyBand/node-red)+[sapereAude](https://github.com/IsMyBand/sapereAudeBot)/EVM)*dataEconomy
 
  bcawse app
  ===========
