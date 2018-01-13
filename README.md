@@ -1,5 +1,5 @@
 # bcawse
-bcawse=([nodered](https://github.com/IsMyBand/node-red)+[sapereAude](https://github.com/IsMyBand/sapereAudeBot)/EVM)*dataEconomy
+bcawse = (nodered + MEAN-MQTT + EVM) * dataEconomy
 
  bcawse app
  ===========
@@ -18,7 +18,7 @@ bcawse=([nodered](https://github.com/IsMyBand/node-red)+[sapereAude](https://git
  
  2.Installation
  --------------
- bcwase will be based on and integration of the [nodered](https://github.com/IsMyBand/node-red) project, the [sapereAude](https://github.com/IsMyBand/sapereAudeBot) transport platform and the [Ethereum project](https://github.com/IsMyBand/py-evm). 
+ bcwase will be based on and integration of the [nodered](https://github.com/IsMyBand/node-red) project, the  [sapere-mqtt-bob](https://github.com/IsMyBand/sapere-mqtt-bob) transport platform and the [Ethereum project](https://github.com/IsMyBand/py-evm). 
  
  Installation and further information will become available as the project develops and matures. 
  
